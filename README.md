@@ -4,19 +4,22 @@ Almost every linux application In a NoVNC server, yes the apps will be tested, A
 >[!IMPORTANT]
 > A astrisk(*) next to the anchored link means the contents has not been added yet, or it has the header but doesn't have the contents
 >
-> 2 astrisks(*) means that the image of what the browser looks like in the NoVNC session has not been added yet
+> 2 astrisks(*) means that the image of what the application looks like in the NoVNC session has not been added yet
 >
-> 3 astrisks(*) next to the anchored link means that the browser logo and about the browser has not been added yet
+> 3 astrisks(*) next to the anchored link means that the application logo and about the application has not been added yet
 >
-> 4 astrisks(*) next to the anchored link means that it neither has the about the browser, browser logo, and image of the what browser looks like in the NoVNC server session
+> 4 astrisks(*) next to the anchored link means that it neither has the about the application, application logo, and image of the what browser looks like in the NoVNC server session
 >
-> No Asterisks(*) next to the anchored link means it has the about the browser, logo of the browser, and what the browser looks like in NoVNC session
+> No Asterisks(*) next to the anchored link means it has the about the application, logo of the application, and what the application looks like in NoVNC session
 
 <details><summary>3d Software</summary>
   
+[Blender NoVNC](#Blender-NoVNC) ****
+
 <details><summary>3d CAD</summary>
   
-[Blender NoVNC](#Blender-NoVNC)
+[Opencad NoVNC](#Opencad-NoVNC) *
+[Freecad NoVNC](#Freecad-NoVNC) *
 
 </details>
 
